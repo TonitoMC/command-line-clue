@@ -1,4 +1,4 @@
-'# Detective's Notebook
+# Detective's Notebook
 
 ## Suspects
 - [ ] The Artist
