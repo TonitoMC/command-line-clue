@@ -1,4 +1,4 @@
-# Detective's Notebook
+\# Detective's Notebook
 
 ## Suspects
 - [ ] The Artist
@@ -11,6 +11,8 @@
 - [ ] Crystal Vase
 
 ## Notes
-*Use this space to record your findings and deductions...*
+
+- Artist saw unexpected light in the park
+
 
 Location of the crime is still unknown - the room must have been empty when it happened...
