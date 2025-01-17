@@ -3,7 +3,7 @@
 ## Suspects
 - [ ] The Artist
 - [X] The Musician
-- [ ] The Chef
+- [X] The Chef
 
 ## Weapons
 - [ ] Antique Compass
@@ -17,5 +17,7 @@
 - Musician found at park, school cafeteria next
 
 - Magnifying glass found in kitchen, offices in town hall next
+
+- Chef found in town hall offices, meeting rooms next
 
 Location of the crime is still unknown - the room must have been empty when it happened...
