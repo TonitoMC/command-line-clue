@@ -8,7 +8,7 @@
 ## Weapons
 - [ ] Antique Compass
 - [X] Magnifying Glass
-- [ ] Crystal Vase
+- [X] Crystal Vase
 
 ## Notes
 
@@ -19,5 +19,7 @@
 - Magnifying glass found in kitchen, offices in town hall next
 
 - Chef found in town hall offices, meeting rooms next
+
+- Crystal vase found in meeting rooms, bakery in the shops next
 
 Location of the crime is still unknown - the room must have been empty when it happened...
